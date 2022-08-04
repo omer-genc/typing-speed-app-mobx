@@ -11,7 +11,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/omer-genc/weather-app-recoil.git
+   git clone https://github.com/omer-genc/typing-speed-app-mobx.git
    ```
 2. Install project packages
    ```sh
