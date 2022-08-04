@@ -1,0 +1,27 @@
+.base {
+  @apply p-4 font-bold m-4 rounded-lg;
+}
+
+.correct-inactive {
+  @apply text-green-500;
+}
+
+.correct-active {
+  @apply bg-green-500;
+}
+
+.incorrect-inactive {
+  @apply text-red-500;
+}
+
+.incorrect-active {
+  @apply bg-red-500;
+}
+
+.unanswered-inactive {
+  @apply text-black;
+}
+
+.unanswered-active {
+  @apply bg-gray-300;
+}
