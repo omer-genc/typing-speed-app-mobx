@@ -1,5 +1,5 @@
 # Typing Speed App with React and MobX
-[Live link]()
+[Live link](https://typing-speed-app-mobx.vercel.app/)
 ## Techs:
 1. React
 2. Vite
